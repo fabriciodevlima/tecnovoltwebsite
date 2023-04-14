@@ -7,3 +7,10 @@ Infelizmente, a empresa não aceitou o orçamento, mas mesmo assim decidi contin
 O site conta com um menu hamburguer responsivo, feito com Javascript, e também possui animações de scroll suaves, que foram implementadas utilizando a biblioteca AOS.
 
 Espero que gostem do meu trabalho e qualquer feedback ou sugestão é sempre bem-vindo!
+
+[Click aqui para visualizar o preview](https://chuckdevs.github.io/Website-Tecnovolt/)
+
+### SITE DESKTOP
+![1440X900](https://i.ibb.co/2SBMtKC/Laptop-1-1440x900.png)
+### SITE Mobile
+![1440X900](https://i.ibb.co/5xvXZ3m/Screenshot-1.png)
